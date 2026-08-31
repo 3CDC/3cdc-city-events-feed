@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-08-30T14:35:32Z",
+  "generated_at_utc": "2026-08-31T17:19:17Z",
   "source": "Ticketmaster Discovery API",
   "query": {
     "city": "Cincinnati",
@@ -8,32 +8,8 @@
     "countryCode": "US",
     "lookahead_days": 30
   },
-  "event_count": 107,
+  "event_count": 106,
   "events": [
-    {
-      "id": "16vbZ_dO7G7Hyqn",
-      "name": "Stokley",
-      "url": "https://www.ticketmaster.com/stokley-cincinnati-ohio-08-30-2026/event/1600643804F3976A",
-      "source": "Ticketmaster",
-      "start_local_date": "2026-08-30",
-      "start_local_time": "19:30:00",
-      "start_utc": "2026-08-30T23:30:00Z",
-      "date_tbd": false,
-      "date_tba": false,
-      "time_tba": false,
-      "venue": "Ludlow Garage Cincinnati",
-      "venue_id": "KovZpZAIvl1A",
-      "address": "342 Ludlow Ave.",
-      "city": "Cincinnati",
-      "state": "OH",
-      "country": "US",
-      "postal_code": "45220",
-      "latitude": 39.143968,
-      "longitude": -84.521195,
-      "segment": "Music",
-      "genre": "R&B",
-      "subgenre": "R&B"
-    },
     {
       "id": "Z7r9jZ1A7QFqP",
       "name": "Cincinnati Reds vs. San Diego Padres",
